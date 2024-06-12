@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bintan Dinar Artamevia</h1>
-<h3 align="center">An eagerly passionate junior college student majoring in Informatics who is a data science enthusiast and currently seeking for experiences in related field to pursue career. Motivated to participate in activities that support her goals in the realm of data science such as organization, supportive community, mentoring, and bootcamp.</h3>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
+<h3>An eagerly passionate junior college student majoring in Informatics who is a data science enthusiast and currently seeking for experiences in related field to pursue career. Motivated to participate in activities that support her goals in the realm of data science such as organization, supportive community, mentoring, and bootcamp.</h3>
 
 - 📫 How to reach me **bintandinartamevia@gmail.com**
 
