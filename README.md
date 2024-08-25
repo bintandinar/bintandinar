@@ -3,7 +3,7 @@
 
 About me
 -----------------------------------
-- 📍 Located in Bandung, Indonesia
+- 📍 Located in Jakarta, Indonesia
 - 👩‍💻 Informatics Student
 - 🔎 I am data science and machine learning enthusiast
 - 🌱 Currently working on exploring various data analysis and visualization for real-world application
